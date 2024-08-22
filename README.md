@@ -1,16 +1,13 @@
-## Hi there 👋
+ ### Boas Vindas ao meu perfil 👨‍🎓
 
-<!--
-**MarcosDias818/MarcosDias818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Marcos Dias
 
-Here are some ideas to get you started:
+ - Estou Estudando Na Alura
+ - Estou me desenvolvendo na Linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Vocé pode entrar em contato comigo 📫
+
+   00001136256556sp@al.educacao.sp.gov.br
+   
+   marquinhos.0992@gmail.com
